@@ -1,7 +1,7 @@
 id=template
-name=Template Module
-version=v1
+name=TicWatch CN Googleify (msm8909-pie)
+version=1.0
 versionCode=1
-author=topjohnwu
-description=A short description
+author=simonsmh
+description=TicWatch CN Googleify, Add Google Play & Tic Companion Global
 minMagisk=17000
