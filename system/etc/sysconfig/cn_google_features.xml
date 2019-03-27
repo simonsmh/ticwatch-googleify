@@ -1,0 +1,3 @@
+<config>
+    <feature name="com.google.android.feature.services_updater" />
+</config>
