@@ -40,9 +40,9 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "***********************************"
-  ui_print "TicWatch CN Googleify (msm8909-pie)"
-  ui_print "***********************************"
+  ui_print "********************************"
+  ui_print "TicWatch CN Googleify (msm8909)"
+  ui_print "********************************"
 }
 
 ##########################################################################################
@@ -63,7 +63,6 @@ REPLACE="
 # Construct your own list here, it will override the example above
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
-/system/etc/sysconfig/cn_google_features.xml
 /system/priv-app/PrebuiltWearskyHeadless
 /system/priv-app/TicCompanionWear_le
 "
