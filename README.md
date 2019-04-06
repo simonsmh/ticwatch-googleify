@@ -13,17 +13,9 @@ This module is compatible with TicWatch Pro & TicWatch C2.
 
 ## Feature
 
-1. Chances to update to latest Wear OS (2.2 -> 2.6)
-
-   可以热更新到新版本的 Wear OS (2.2 -> 2.6)
-
-2. Replace current **Play Service Updater** to **Play Store**
+- Replace current **Play Service Updater** to **Play Store**
 
    将 **Play 服务更新程序** 替换为 **Play 商店**
-
-3. Global version **Mobvoi App** to sync with **Google Fit**
-
-   使用国际版的 **Mobvoi 应用** 来同步 **Google Fit**
 
 ## Additional
 
