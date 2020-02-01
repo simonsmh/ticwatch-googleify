@@ -38,7 +38,7 @@ cmd package install-existing com.mobvoi.ticwear.sidewearvoicesearch
 
 ## Credit & Support
 
-* Copyright (C) 2018-2019 Mobvoi & Google
-* Copyleft (ↄ) 2019 simonsmh <simonsmh@gmail.com>
+* Copyright (C) 2018-2020 Mobvoi & Google
+* Copyleft (ↄ) 2019-2020 simonsmh <simonsmh@gmail.com>
 * Any issue or pull request is welcomed.
 * Star this module at [GitHub](https://github.com/Magisk-Modules-Repo/ticwatch-googleify).
